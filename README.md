@@ -7,11 +7,16 @@ Welcome to my portfolio. I'm Rashid Mohammed, a Master of Applied Data Science g
 <br/>
 
 ## Ask me about 
-- Programming with Python, SQL, R, Javascript, and the Microsoft Power platform.
-- Hypothesis testing 
+- Programming with:
+	- Python: [Booking appointments in Python](https://github.com/RashidCodes/Appointment-Records/tree/rashid)
+	- SQL: [Enforcing Data Integrity in the Queensland Groundwater database](https://github.com/RashidCodes/Consistency/tree/main) 
+	- Javascript: [Looking for jobs with Github](https://github.com/RashidCodes/GithubJobs) 
+	- Shell scriping with Bash: [Shell-Scripting](https://github.com/RashidCodes/Shell-Scripting)
+- Hypothesis testing: [Do you need a postgraduate degree to be a professional  data scientist?](https://github.com/RashidCodes/Postgrad-Test)
 - Multivariate Statistics with R 
 - Machine Learning
-- Master's Thesis (Dept of Anaesthesia assessment using Fractal Dimensions and Entropies of EEG Signals)
+- Data Mining: [Visualing K-means and the Apriori Algorithm](https://github.com/RashidCodes/K-Apriori)
+- Master's Thesis: [Dept of Anaesthesia assessment using Fractal Dimensions and Entropies of EEG Signals](https://github.com/RashidCodes/EEG-Analysis)
 - Goals and Aspirations 
 
 <br/>
