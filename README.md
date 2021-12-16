@@ -18,7 +18,7 @@ I've also just started making youtube videos because it's something I've always 
 - Multivariate Statistics with R 
 - Machine Learning
 - Data Mining: [Visualing K-means and the Apriori Algorithm](https://github.com/RashidCodes/K-Apriori)
-- Master's Thesis: [Dept of Anaesthesia assessment using Fractal Dimensions and Entropies of EEG Signals](https://github.com/RashidCodes/EEG-Analysis)
+- Master's Thesis: [Depth of Anaesthesia assessment using Fractal Dimensions and Entropies of EEG Signals](https://github.com/RashidCodes/EEG-Analysis)
 - Goals and Aspirations 
 
 <br/>
