@@ -8,7 +8,7 @@ Welcome to my portfolio. I'm Rashid Mohammed, a Master of Applied Data Science g
 
 ## Ask me about 
 - Programming with:
-	- Python: [Booking appointments in Python](https://github.com/RashidCodes/Appointment-Records/tree/rashid)
+	- Python: [Booking appointments in Python](https://github.com/RashidCodes/Appointment-Records/tree/main)
 	- SQL: [Enforcing Data Integrity in the Queensland Groundwater database](https://github.com/RashidCodes/Consistency/tree/main) 
 	- Javascript: [Looking for jobs with Github](https://github.com/RashidCodes/GithubJobs) 
 	- Shell scriping with Bash: [Shell-Scripting](https://github.com/RashidCodes/Shell-Scripting)
