@@ -17,11 +17,13 @@ I've also just started making youtube videos because it's something I've always 
 - Hypothesis testing: [Do you need a postgraduate degree to be a professional  data scientist?](https://github.com/RashidCodes/Postgrad-Test)
 - Multivariate Statistics with R 
 - Machine Learning
+- [Data Visualisation](https://public.tableau.com/app/profile/rashid.mohammed6565#!/?newProfile=&activeTab=0)
 - Data Mining: [Visualing K-means and the Apriori Algorithm](https://github.com/RashidCodes/K-Apriori)
 - Master's Thesis: [Depth of Anaesthesia assessment using Fractal Dimensions and Entropies of EEG Signals](https://github.com/RashidCodes/EEG-Analysis)
 - Devops: [Devops Journey Frontend](https://github.com/RashidCodes/Devops-Journey-Frontend) and [Devops Journey Backend](https://github.com/RashidCodes/Devops-Journey-Backend)
 - Programming languages I have no idea about
 - Goals and Aspirations 
+
 
 
 <br/>
