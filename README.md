@@ -19,7 +19,10 @@ I've also just started making youtube videos because it's something I've always 
 - Machine Learning
 - Data Mining: [Visualing K-means and the Apriori Algorithm](https://github.com/RashidCodes/K-Apriori)
 - Master's Thesis: [Depth of Anaesthesia assessment using Fractal Dimensions and Entropies of EEG Signals](https://github.com/RashidCodes/EEG-Analysis)
+- Devops: [Devops Journey Frontend](https://github.com/RashidCodes/Devops-Journey-Frontend) and [Devops Journey Backend](https://github.com/RashidCodes/Devops-Journey-Backend)
+- Programming languages I have no idea about
 - Goals and Aspirations 
+
 
 <br/>
 
@@ -31,3 +34,7 @@ You can find me on:
 
 ## Fun fact
 I can't believe I graduated with a distinction in Applied Data Science. I've never considered myself to be smart enough but I guess hardwork pays off eventually. Although I'm done with Uni, I know the learning never really stops in data science. Please check out my repos if you can, and if you find anthing interesting, please don't hesitate to hit me up on Linkedin. It'll be a pleasure to have a chat.
+
+
+
+
