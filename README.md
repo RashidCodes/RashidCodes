@@ -12,7 +12,7 @@ I've also just started making youtube videos because it's something I've always 
 - Programming with:
 	- Python: [Booking appointments in Python](https://github.com/RashidCodes/Appointment-Records/tree/main)
 	- SQL: [Enforcing Data Integrity in the Queensland Groundwater database](https://github.com/RashidCodes/Consistency/tree/main) 
-	- Javascript: [Looking for jobs with Github](https://github.com/RashidCodes/GithubJobs) 
+	- Javascript: [Looking for jobs with the Github API](https://github.com/RashidCodes/GithubJobs) 
 	- Shell scriping with Bash: [Shell-Scripting](https://github.com/RashidCodes/Shell-Scripting)
 - Hypothesis testing: [Do you need a postgraduate degree to be a professional  data scientist?](https://github.com/RashidCodes/Postgrad-Test)
 - Multivariate Statistics with R 
