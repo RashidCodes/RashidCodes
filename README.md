@@ -10,7 +10,7 @@ I've also just started making youtube videos because it's something I've always 
 
 ## Ask me about 
 - Programming with:
-	- Python: [Booking appointments in Python](https://github.com/RashidCodes/Appointment-Records/tree/main)
+	- Python: [Collecting data about data scientists on LinkedIn](https://github.com/RashidCodes/Scrapers)
 	- SQL: [Enforcing Data Integrity in the Queensland Groundwater database](https://github.com/RashidCodes/Consistency/tree/main) 
 	- Javascript: [Looking for jobs with the Github API](https://github.com/RashidCodes/GithubJobs) 
 	- Shell scriping with Bash: [Shell-Scripting](https://github.com/RashidCodes/Shell-Scripting)
