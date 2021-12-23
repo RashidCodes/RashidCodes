@@ -14,7 +14,7 @@ I've also just started making youtube videos because it's something I've always 
 	- SQL: [Enforcing Data Integrity in the Queensland Groundwater database](https://github.com/RashidCodes/Consistency/tree/main) 
 	- Javascript: [Looking for jobs with the Github API](https://github.com/RashidCodes/GithubJobs) 
 	- Shell scriping with Bash: [Shell-Scripting](https://github.com/RashidCodes/Shell-Scripting)
-- Hypothesis testing: [Do you need a postgraduate degree to be a professional  data scientist?](https://github.com/RashidCodes/Postgrad-Test)
+- Hypothesis testing: [Do you need a postgraduate degree to be a professional data scientist?](https://github.com/RashidCodes/Postgrad-Test/blob/master/CSC8002_Progress.ipynb)
 - Multivariate Statistics with R 
 - Machine Learning: [Master's Thesis](https://github.com/RashidCodes/EEG-Analysis)
 - [Data Visualisation](https://public.tableau.com/app/profile/rashid.mohammed6565#!/?newProfile=&activeTab=0)
@@ -30,6 +30,7 @@ I've also just started making youtube videos because it's something I've always 
 ## How to reach me 
 You can find me on:
 - Linkedin: https://www.linkedin.com/in/rashid-mohammed-1a19a6179/
+- Email: rasheed.rmoh@gmail.com
 
 <br/>
 
