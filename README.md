@@ -20,6 +20,8 @@ I've also just started making youtube videos because it's something I've always 
 - [Data Visualisation](https://public.tableau.com/app/profile/rashid.mohammed6565#!/?newProfile=&activeTab=0)
 - Data Mining: [Visualing K-means and the Apriori Algorithm](https://github.com/RashidCodes/K-Apriori)
 - Devops: [Devops Journey Frontend](https://github.com/RashidCodes/Devops-Journey-Frontend) and [Devops Journey Backend](https://github.com/RashidCodes/Devops-Journey-Backend)
+- Data Analysis: https://github.com/RashidCodes/Communications-Analyses
+- Data Warehousing: https://github.com/RashidCodes/DataWareHousing
 - Programming languages I have no idea about
 - Goals and Aspirations 
 
