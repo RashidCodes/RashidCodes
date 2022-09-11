@@ -2,7 +2,7 @@
 
 # Hey there👋
 
-Welcome to my portfolio. I'm Rashid Mohammed, a Master of Applied Data Science graduate from the University of Southern Queensland [UniSQ](https://www.unisq.edu.au/) in Australia. I'm looking to collaborate with experienced data scientists, software developers, etc. to help businesses leverage the power of their data in their decision-making processes. I'm also looking to gain some industry experience from highly experienced professionals in data. I have experience with machine learning, exploratory data analysis, multivariate statistics, hypothesis testing, data mining, and several others. I'm currently learning how to build decentralised applications on the Ethereum blockchain. 
+Welcome to my portfolio. I'm Rashid Mohammed, a Master of Applied Data Science graduate from the University of Southern Queensland [UniSQ](https://www.unisq.edu.au/) in Australia. I'm looking to collaborate with experienced data scientists, software developers, etc. to help businesses leverage the power of their data in their decision-making processes. I'm also looking to gain some industry experience from highly experienced professionals in data. I have experience with machine learning, exploratory data analysis, multivariate statistics, hypothesis testing, data mining, and several others. I'm currently studying data structure and algorithms in Python. 
 
 <br/>
 
