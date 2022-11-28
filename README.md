@@ -2,7 +2,7 @@
 
 # Hey there👋
 
-Welcome to my portfolio. I'm Rashid Mohammed, a Master of Applied Data Science graduate from the University of Southern Queensland [UniSQ](https://www.unisq.edu.au/) in Australia. I collaborate with experienced data scientists, software developers, etc. to help businesses leverage the power of their data in their decision-making processes. I have experience with machine learning, exploratory data analysis, multivariate statistics, hypothesis testing, data mining, and several others. 
+Welcome to my portfolio. I'm Rashid. I collaborate with experienced data scientists, software developers, etc. to help businesses leverage the power of their data in their decision-making processes. I have experience with machine learning, exploratory data analysis, multivariate statistics, hypothesis testing, data mining, and several others. 
 
 <br/>
 
