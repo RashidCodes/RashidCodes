@@ -12,7 +12,7 @@ Check out my blog [here](http://kingmoh.hashnode.dev/).
 <br/>
 
 ## Ask me about 
-- Data Engineering: 
+- [Data Engineering](https://github.com/RashidCodes/dec-project-2): 
 - Programming with:
 	- Python: [Collecting data about data scientists on LinkedIn](https://github.com/RashidCodes/Scrapers)
 	- SQL: [Enforcing Data Integrity in the Queensland Groundwater database](https://github.com/RashidCodes/Consistency/tree/main) 
