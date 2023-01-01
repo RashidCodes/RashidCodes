@@ -1,4 +1,4 @@
-<img src="pexels-anna-nekrashevich-6801648.jpg" />
+<img src="thumb.png" />
 
 # Hey there👋
 
